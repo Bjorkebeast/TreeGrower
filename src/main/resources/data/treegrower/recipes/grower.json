@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "#@#",
+    "#v#"
+  ],
+
+  "key": {
+    "x": {
+      "item": "minecraft:daylight_detector"
+    },
+
+    "#": {
+      "item": "minecraft:smooth_stone"
+    },
+
+    "@": {
+      "tag": "minecraft:leaves"
+    },
+
+    "v": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "treegrower:grower",
+    "count": 1
+  }
+}

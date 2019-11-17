@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "treegrower:block/grower" },
+    "facing=south": { "model": "treegrower:block/grower", "y": 180 },
+    "facing=west":  { "model": "treegrower:block/grower", "y": 270 },
+    "facing=east":  { "model": "treegrower:block/grower", "y": 90 },
+    "facing=up":    { "model": "treegrower:block/grower", "x": -90 },
+    "facing=down":  { "model": "treegrower:block/grower", "x": 90 }
+  }
+}
